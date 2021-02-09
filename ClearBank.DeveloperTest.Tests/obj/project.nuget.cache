@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "2wBWImhgRCna6YNZcN1dVjUk6r6W61CkcD+OvTVSZi3ZcsTkEy3aVPs5iZRjjYb70PZDvkFaDUn9v4YUTXmfdQ==",
+  "dgSpecHash": "NAbFM/johZUS4WFSwCTl5v7lj4p4FfnJ5wjpIv6wngoBR7sI4a47/RkhTiKUMV+PuCgFiBV+NPs3QpBXnwXoeQ==",
   "success": true,
-  "projectFilePath": "/Users/semihbas/Downloads/ClearBank/ClearBank.DeveloperTest.Tests/ClearBank.DeveloperTest.Tests.csproj",
+  "projectFilePath": "/Users/semihbas/Documents/GitHub/ClearBank.DeveloperTest/ClearBank.DeveloperTest.Tests/ClearBank.DeveloperTest.Tests.csproj",
   "expectedPackageFiles": [
     "/Users/semihbas/.nuget/packages/castle.core/4.4.0/castle.core.4.4.0.nupkg.sha512",
     "/Users/semihbas/.nuget/packages/microsoft.codecoverage/16.8.3/microsoft.codecoverage.16.8.3.nupkg.sha512",

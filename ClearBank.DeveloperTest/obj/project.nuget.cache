@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "O9JW1Z/pF3IsghW6T4YJWCexBeECfmYrRbP3DCiKONhZkMep+r8f/9g9p0YDcD2bNn5Kb+fPrHbAlSelG3YaVA==",
+  "dgSpecHash": "NV5ERA+E1MzL1G1Y7xrNilXFXGVUnQtUqpRVxbSS7/r7mkbQE99qv6TeBzTau9bYs1P9DO/q6FIWcyEWiInHxg==",
   "success": true,
-  "projectFilePath": "/Users/semihbas/Downloads/ClearBank/ClearBank.DeveloperTest/ClearBank.DeveloperTest.csproj",
+  "projectFilePath": "/Users/semihbas/Documents/GitHub/ClearBank.DeveloperTest/ClearBank.DeveloperTest/ClearBank.DeveloperTest.csproj",
   "expectedPackageFiles": [
     "/Users/semihbas/.nuget/packages/microsoft.netcore.platforms/3.1.0/microsoft.netcore.platforms.3.1.0.nupkg.sha512",
     "/Users/semihbas/.nuget/packages/microsoft.win32.systemevents/4.7.0/microsoft.win32.systemevents.4.7.0.nupkg.sha512",

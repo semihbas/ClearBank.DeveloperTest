@@ -1,0 +1,30 @@
+﻿<Properties StartupConfiguration="{A3CA1845-E8EC-4B29-8E5C-F1E69CF73F25}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="ClearBank.DeveloperTest/Services/PaymentService.cs">
+    <Files>
+      <File FileName="ClearBank.DeveloperTest/Services/PaymentService.cs" Line="120" Column="29" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="ClearBank.DeveloperTest" expanded="True" selected="True">
+            <Node name="ClearBank.DeveloperTest" expanded="True">
+              <Node name="Services" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.UnitTesting.TestPad">
+        <State name="__root__">
+          <Node name="ClearBank.DeveloperTest" expanded="True" selected="True" />
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.ClearBank.DeveloperTest.Tests PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

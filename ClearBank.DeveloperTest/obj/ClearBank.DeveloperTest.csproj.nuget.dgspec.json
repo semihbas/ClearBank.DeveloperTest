@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/semihbas/Downloads/ClearBank/ClearBank.DeveloperTest/ClearBank.DeveloperTest.csproj": {}
+    "/Users/semihbas/Documents/GitHub/ClearBank.DeveloperTest/ClearBank.DeveloperTest/ClearBank.DeveloperTest.csproj": {}
   },
   "projects": {
-    "/Users/semihbas/Downloads/ClearBank/ClearBank.DeveloperTest/ClearBank.DeveloperTest.csproj": {
+    "/Users/semihbas/Documents/GitHub/ClearBank.DeveloperTest/ClearBank.DeveloperTest/ClearBank.DeveloperTest.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/semihbas/Downloads/ClearBank/ClearBank.DeveloperTest/ClearBank.DeveloperTest.csproj",
+        "projectUniqueName": "/Users/semihbas/Documents/GitHub/ClearBank.DeveloperTest/ClearBank.DeveloperTest/ClearBank.DeveloperTest.csproj",
         "projectName": "ClearBank.DeveloperTest",
-        "projectPath": "/Users/semihbas/Downloads/ClearBank/ClearBank.DeveloperTest/ClearBank.DeveloperTest.csproj",
+        "projectPath": "/Users/semihbas/Documents/GitHub/ClearBank.DeveloperTest/ClearBank.DeveloperTest/ClearBank.DeveloperTest.csproj",
         "packagesPath": "/Users/semihbas/.nuget/packages/",
-        "outputPath": "/Users/semihbas/Downloads/ClearBank/ClearBank.DeveloperTest/obj/",
+        "outputPath": "/Users/semihbas/Documents/GitHub/ClearBank.DeveloperTest/ClearBank.DeveloperTest/obj/",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
