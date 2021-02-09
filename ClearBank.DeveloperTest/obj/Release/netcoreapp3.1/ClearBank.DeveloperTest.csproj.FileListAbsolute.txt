@@ -1,0 +1,9 @@
+/Users/semihbas/Downloads/ClearBank/ClearBank.DeveloperTest/bin/Release/netcoreapp3.1/ClearBank.DeveloperTest.deps.json
+/Users/semihbas/Downloads/ClearBank/ClearBank.DeveloperTest/bin/Release/netcoreapp3.1/ClearBank.DeveloperTest.dll
+/Users/semihbas/Downloads/ClearBank/ClearBank.DeveloperTest/bin/Release/netcoreapp3.1/ClearBank.DeveloperTest.pdb
+/Users/semihbas/Downloads/ClearBank/ClearBank.DeveloperTest/obj/Release/netcoreapp3.1/ClearBank.DeveloperTest.csprojAssemblyReference.cache
+/Users/semihbas/Downloads/ClearBank/ClearBank.DeveloperTest/obj/Release/netcoreapp3.1/ClearBank.DeveloperTest.AssemblyInfoInputs.cache
+/Users/semihbas/Downloads/ClearBank/ClearBank.DeveloperTest/obj/Release/netcoreapp3.1/ClearBank.DeveloperTest.AssemblyInfo.cs
+/Users/semihbas/Downloads/ClearBank/ClearBank.DeveloperTest/obj/Release/netcoreapp3.1/ClearBank.DeveloperTest.csproj.CoreCompileInputs.cache
+/Users/semihbas/Downloads/ClearBank/ClearBank.DeveloperTest/obj/Release/netcoreapp3.1/ClearBank.DeveloperTest.dll
+/Users/semihbas/Downloads/ClearBank/ClearBank.DeveloperTest/obj/Release/netcoreapp3.1/ClearBank.DeveloperTest.pdb

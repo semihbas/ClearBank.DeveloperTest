@@ -1,0 +1,15 @@
+/Users/semihbas/Downloads/ClearBank/ClearBank.DeveloperTest.Tests/bin/Release/netcoreapp3.1/Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+/Users/semihbas/Downloads/ClearBank/ClearBank.DeveloperTest.Tests/bin/Release/netcoreapp3.1/Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+/Users/semihbas/Downloads/ClearBank/ClearBank.DeveloperTest.Tests/bin/Release/netcoreapp3.1/Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+/Users/semihbas/Downloads/ClearBank/ClearBank.DeveloperTest.Tests/bin/Release/netcoreapp3.1/ClearBank.DeveloperTest.Tests.deps.json
+/Users/semihbas/Downloads/ClearBank/ClearBank.DeveloperTest.Tests/bin/Release/netcoreapp3.1/ClearBank.DeveloperTest.Tests.dll
+/Users/semihbas/Downloads/ClearBank/ClearBank.DeveloperTest.Tests/bin/Release/netcoreapp3.1/ClearBank.DeveloperTest.Tests.pdb
+/Users/semihbas/Downloads/ClearBank/ClearBank.DeveloperTest.Tests/bin/Release/netcoreapp3.1/ClearBank.DeveloperTest.dll
+/Users/semihbas/Downloads/ClearBank/ClearBank.DeveloperTest.Tests/bin/Release/netcoreapp3.1/ClearBank.DeveloperTest.pdb
+/Users/semihbas/Downloads/ClearBank/ClearBank.DeveloperTest.Tests/obj/Release/netcoreapp3.1/ClearBank.DeveloperTest.Tests.csprojAssemblyReference.cache
+/Users/semihbas/Downloads/ClearBank/ClearBank.DeveloperTest.Tests/obj/Release/netcoreapp3.1/ClearBank.DeveloperTest.Tests.AssemblyInfoInputs.cache
+/Users/semihbas/Downloads/ClearBank/ClearBank.DeveloperTest.Tests/obj/Release/netcoreapp3.1/ClearBank.DeveloperTest.Tests.AssemblyInfo.cs
+/Users/semihbas/Downloads/ClearBank/ClearBank.DeveloperTest.Tests/obj/Release/netcoreapp3.1/ClearBank.DeveloperTest.Tests.csproj.CoreCompileInputs.cache
+/Users/semihbas/Downloads/ClearBank/ClearBank.DeveloperTest.Tests/obj/Release/netcoreapp3.1/ClearBank.DeveloperTest.Tests.csproj.CopyComplete
+/Users/semihbas/Downloads/ClearBank/ClearBank.DeveloperTest.Tests/obj/Release/netcoreapp3.1/ClearBank.DeveloperTest.Tests.dll
+/Users/semihbas/Downloads/ClearBank/ClearBank.DeveloperTest.Tests/obj/Release/netcoreapp3.1/ClearBank.DeveloperTest.Tests.pdb
