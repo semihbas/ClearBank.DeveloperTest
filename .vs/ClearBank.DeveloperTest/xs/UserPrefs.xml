@@ -1,7 +1,13 @@
-﻿<Properties StartupConfiguration="{A3CA1845-E8EC-4B29-8E5C-F1E69CF73F25}|Default">
-  <MonoDevelop.Ide.Workbench ActiveDocument="ClearBank.DeveloperTest/Services/PaymentService.cs">
+﻿<Properties GitUserInfo="UsingGIT" StartupConfiguration="{A3CA1845-E8EC-4B29-8E5C-F1E69CF73F25}|Default">
+  <MonoDevelop.Ide.Workbench>
     <Files>
-      <File FileName="ClearBank.DeveloperTest/Services/PaymentService.cs" Line="120" Column="29" />
+      <File FileName="ClearBank.DeveloperTest/Services/PaymentService.cs" Line="37" Column="1" />
+      <File FileName="ClearBank.DeveloperTest.Tests/Services/AccountServiceTests.cs" Line="47" Column="6" />
+      <File FileName="ClearBank.DeveloperTest.Tests/Services/PaymentServiceTests.cs" Line="48" Column="77" />
+      <File FileName="ClearBank.DeveloperTest/Services/AccountService.cs" Line="1" Column="1" />
+      <File FileName="ClearBank.DeveloperTest.Tests/Validators/FasterPaymentsValidatorTests.cs" Line="1" Column="1" />
+      <File FileName="ClearBank.DeveloperTest.Tests/Validators/PaymentValidatorFactoryTests.cs" Line="1" Column="1" />
+      <File FileName="ClearBank.DeveloperTest.Tests/Validators/BacsValidatorTests.cs" Line="1" Column="1" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
@@ -10,12 +16,24 @@
             <Node name="ClearBank.DeveloperTest" expanded="True">
               <Node name="Services" expanded="True" />
             </Node>
+            <Node name="ClearBank.DeveloperTest.Tests" expanded="True">
+              <Node name="Services" expanded="True" />
+              <Node name="Validators" expanded="True" />
+            </Node>
           </Node>
         </State>
       </Pad>
       <Pad Id="MonoDevelop.UnitTesting.TestPad">
         <State name="__root__">
-          <Node name="ClearBank.DeveloperTest" expanded="True" selected="True" />
+          <Node name="ClearBank.DeveloperTest" expanded="True">
+            <Node name="ClearBank.DeveloperTest.Tests" expanded="True">
+              <Node name="ClearBank.DeveloperTest.Tests" expanded="True">
+                <Node name="PaymentServiceTests" expanded="True">
+                  <Node name="MakePayment_Should_Return_Response_True" selected="True" />
+                </Node>
+              </Node>
+            </Node>
+          </Node>
         </State>
       </Pad>
     </Pads>
@@ -24,7 +42,10 @@
   <MonoDevelop.Ide.ItemProperties.ClearBank.DeveloperTest.Tests PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
-    <BreakpointStore />
+    <BreakpointStore>
+      <Breakpoint file="/Users/semihbas/Documents/GitHub/ClearBank.DeveloperTest/ClearBank.DeveloperTest.Tests/Services/PaymentServiceTests.cs" relfile="ClearBank.DeveloperTest.Tests/Services/PaymentServiceTests.cs" line="53" column="1" />
+      <Breakpoint file="/Users/semihbas/Documents/GitHub/ClearBank.DeveloperTest/ClearBank.DeveloperTest/Services/PaymentService.cs" relfile="ClearBank.DeveloperTest/Services/PaymentService.cs" line="22" column="1" />
+    </BreakpointStore>
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
   <MultiItemStartupConfigurations />
 </Properties>
