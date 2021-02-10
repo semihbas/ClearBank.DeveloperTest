@@ -107,10 +107,10 @@
 /Users/semihbas/Downloads/ClearBank/ClearBank.DeveloperTest.Tests/obj/Debug/netcoreapp3.1/ClearBank.DeveloperTest.Tests.dll
 /Users/semihbas/Downloads/ClearBank/ClearBank.DeveloperTest.Tests/obj/Debug/netcoreapp3.1/ClearBank.DeveloperTest.Tests.pdb
 /Users/semihbas/Downloads/ClearBank/ClearBank.DeveloperTest.Tests/obj/Debug/netcoreapp3.1/ClearBank.DeveloperTest.Tests.genruntimeconfig.cache
+/Users/semihbas/Documents/GitHub/ClearBank.DeveloperTest/ClearBank.DeveloperTest.Tests/bin/Debug/netcoreapp3.1/Microsoft.TestPlatform.PlatformAbstractions.dll
 /Users/semihbas/Documents/GitHub/ClearBank.DeveloperTest/ClearBank.DeveloperTest.Tests/bin/Debug/netcoreapp3.1/Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
 /Users/semihbas/Documents/GitHub/ClearBank.DeveloperTest/ClearBank.DeveloperTest.Tests/bin/Debug/netcoreapp3.1/Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
 /Users/semihbas/Documents/GitHub/ClearBank.DeveloperTest/ClearBank.DeveloperTest.Tests/bin/Debug/netcoreapp3.1/Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
-/Users/semihbas/Documents/GitHub/ClearBank.DeveloperTest/ClearBank.DeveloperTest.Tests/bin/Debug/netcoreapp3.1/Microsoft.TestPlatform.PlatformAbstractions.dll
 /Users/semihbas/Documents/GitHub/ClearBank.DeveloperTest/ClearBank.DeveloperTest.Tests/bin/Debug/netcoreapp3.1/ClearBank.DeveloperTest.Tests.deps.json
 /Users/semihbas/Documents/GitHub/ClearBank.DeveloperTest/ClearBank.DeveloperTest.Tests/bin/Debug/netcoreapp3.1/ClearBank.DeveloperTest.Tests.runtimeconfig.json
 /Users/semihbas/Documents/GitHub/ClearBank.DeveloperTest/ClearBank.DeveloperTest.Tests/bin/Debug/netcoreapp3.1/ClearBank.DeveloperTest.Tests.runtimeconfig.dev.json

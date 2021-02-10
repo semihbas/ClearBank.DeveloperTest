@@ -9,7 +9,6 @@
 /Users/semihbas/Documents/GitHub/ClearBank.DeveloperTest/ClearBank.DeveloperTest/bin/Debug/netcoreapp3.1/ClearBank.DeveloperTest.deps.json
 /Users/semihbas/Documents/GitHub/ClearBank.DeveloperTest/ClearBank.DeveloperTest/bin/Debug/netcoreapp3.1/ClearBank.DeveloperTest.dll
 /Users/semihbas/Documents/GitHub/ClearBank.DeveloperTest/ClearBank.DeveloperTest/bin/Debug/netcoreapp3.1/ClearBank.DeveloperTest.pdb
-/Users/semihbas/Documents/GitHub/ClearBank.DeveloperTest/ClearBank.DeveloperTest/obj/Debug/netcoreapp3.1/ClearBank.DeveloperTest.csprojAssemblyReference.cache
 /Users/semihbas/Documents/GitHub/ClearBank.DeveloperTest/ClearBank.DeveloperTest/obj/Debug/netcoreapp3.1/ClearBank.DeveloperTest.AssemblyInfoInputs.cache
 /Users/semihbas/Documents/GitHub/ClearBank.DeveloperTest/ClearBank.DeveloperTest/obj/Debug/netcoreapp3.1/ClearBank.DeveloperTest.AssemblyInfo.cs
 /Users/semihbas/Documents/GitHub/ClearBank.DeveloperTest/ClearBank.DeveloperTest/obj/Debug/netcoreapp3.1/ClearBank.DeveloperTest.csproj.CoreCompileInputs.cache

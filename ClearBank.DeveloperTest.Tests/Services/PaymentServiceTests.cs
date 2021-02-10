@@ -44,6 +44,8 @@ namespace ClearBank.DeveloperTest.Tests
 
            
             Assert.IsFalse(result.Success);
+
+            _accountServiceMock.Verify(store => store.UpdateAccount(It.IsAny<Account>(), It.IsAny<MakePaymentRequest>()), Times.Never);
         }
 
         [TestMethod]
@@ -55,15 +57,16 @@ namespace ClearBank.DeveloperTest.Tests
                 .Returns(true);
 
             _paymentValidatorFactoryMock.Setup(factory => factory.GetInstance(It.IsAny<MakePaymentRequest>()))
-                .Returns(_paymentValidatorMock.Object);
+                .Returns(_paymentValidatorMock.Object);        
 
-           
+
             var result = _paymentService.MakePayment(new MakePaymentRequest());
 
             
             Assert.IsTrue(result.Success);
+
+            _accountServiceMock.Verify(store => store.UpdateAccount(It.IsAny<Account>(), It.IsAny<MakePaymentRequest>()), Times.Once);
+
         }
-
-
     }
 }
